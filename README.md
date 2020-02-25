@@ -8,7 +8,7 @@ in the solo projects to three in the group projects, they differ in complexity.
 Different Topics ranging from introduction to python, data cleaning using the pandas library or data visualization, mainly with Tableau are represented by the projects.
 The are ordered chronologically.
 
-## [1. Python - Escape Room](../01_python_Escape\ Room)
+## [1. Python - Escape Room](https://github.com/arnegrotenrath/Ironhack_Bootcamp/tree/master/01_python_Escape%20Room)
 
 In this one-day solo project, the skills learned in the introduction to python are applied. A working example of an excape room game is modified to a more complex, prolonged version.
 
